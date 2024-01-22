@@ -31,7 +31,7 @@ export default function Home() {
             hover:bg-white/50"
           >
             <p className="text-sm font-semibold text-gray-700">
-              Quill is now public!
+              Quill is now public !
             </p>
         </div>
         <h1 className="max-w-4xl text-5xl font-bold md:text-6xl lg:text-7xl">
@@ -146,7 +146,7 @@ export default function Home() {
                 Start chatting within minutes
               </h2>
               <p className="mt-4 text-lg text-gray-600">
-                Chatting to you PDF has never been easier with Quill
+                Chatting to your PDF has never been easier with Quill
               </p>
             </div>
           </div>
